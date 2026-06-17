@@ -8,3 +8,6 @@ Description - Most of us know someone who struggled with breast cancer, or at le
 The most important part of a process of clinical decision-making in patients with cancers, in general, is the accurate estimation of prognosis and survival duration. Breast cancer patients with the same stage of the disease and the same clinical characteristics can have different treatment responses and overall survival, but why?
 
 Cancers are associated with genetic abnormalities. Gene expression measures the level of gene activity in a tissue and gives information about its complex activities. Comparing the genes expressed in normal and diseased tissue can bring better insights into the cancer prognosis and outcomes. Using machine learning techniques on genetic data has the potentials of giving the correct estimation of survival time and can prevent unnecessary surgical and treatment procedures.
+
+# Google Colab 
+Link - https://colab.research.google.com/drive/1M55MRgaful4NsPjhg5SR3bkjB1DtfW8l#scrollTo=vMxsMcoLT2PT
