@@ -1,0 +1,2 @@
+# design_of_hybrid_dl_framework_for_cancer_prognosis_by_integrating_genomic_-_clinical_data
+A hybrid deep learning framework for breast cancer prognosis prediction using genomic and clinical data. The model combines Liquid Neural Networks (LNN) and Deep Neural Networks (DNN) to learn complex biological patterns from the METABRIC dataset and achieve high prediction accuracy for patient survival outcomes. Built using PyTorch , Scikit-Learn.
